@@ -33,11 +33,11 @@ There are no special requirements to run this project. You only need a web brows
 ### Installation
 1. Clone the repository:
 ```bash
-    git clone https://github.com/your-username/simple-calculator.git
+    git clone https://github.com/gaurav-solanki-27/calculator.git
 ```
 2. Navigate to the project directory:
 ```bash
-    cd simple-calculator
+    cd calculator
 ```
 3. Open the index.html file in your web browser:
 ```bash
